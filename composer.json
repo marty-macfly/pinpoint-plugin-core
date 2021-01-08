@@ -1,0 +1,29 @@
+{
+  "name": "macfly/pinpoint-plugin-core",
+  "description": "Pinpoint core plugin component for PHP",
+  "keywords": ["pinpoint"],
+  "type": "pinpoint-plugin",
+  "license": "BSD-3-Clause",
+  "support": {
+    "issues": "https://github.com/marty-macfly/pinpoint-plugin-core/issues",
+    "source": "https://github.com/marty-macfly/pinpoint-plugin-core"
+  },
+  "authors": [
+    {
+      "name": "Charles DELFLY",
+      "email": "mmacfly@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {
+     "yiisoft/yii2": "~2.0.5",
+    "pinpoint-apm/pinpoint-php-aop": "v2.0.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "Plugins\\Common": "src/plugins/Common",
+      "Plugins\\Sys": "src/plugins/Sys",
+      "Plugins\\Util": "src/plugins/Util"
+    }
+  }
+}
