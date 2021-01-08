@@ -1,7 +1,9 @@
 {
   "name": "macfly/pinpoint-plugin-core",
   "description": "Pinpoint core plugin component for PHP",
-  "keywords": ["pinpoint"],
+  "keywords": [
+    "pinpoint"
+  ],
   "type": "pinpoint-plugin",
   "license": "BSD-3-Clause",
   "support": {
@@ -20,9 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Plugins\\Common\\": "src/plugins/Common",
-      "Plugins\\Sys\\": "src/plugins/Sys",
-      "Plugins\\Util\\": "src/plugins/Util"
+      "pinpoint\\PluginsCore": "src/PluginsCore"
     }
   }
 }
