@@ -79,8 +79,8 @@ class PerRequestPlugins
         $this->app_name = APPLICATION_NAME;
         pinpoint_add_clue(PP_APP_NAME, $this->app_name);
 
-        $this->app_id = APPLICATION_ID;
-        pinpoint_add_clue(PP_APP_ID, substr($this->app_id, 0, 24));
+        $this->app_id = substr(APPLICATION_ID, 0, 24);
+        pinpoint_add_clue(PP_APP_ID, $this->app_id);
 
         if (isset($_SERVER[PP_HEADER_PSPANID]) || array_key_exists(PP_HEADER_PSPANID, $_SERVER)) {
             $this->psid = $_SERVER[PP_HEADER_PSPANID];
