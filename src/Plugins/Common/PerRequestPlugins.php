@@ -15,9 +15,9 @@
  * limitations under the License.                                             *
  ******************************************************************************/
 
-namespace Plugins;
+namespace Plugins\Common;
 
-require_once "__init__.php";
+require_once "../__init__.php";
 
 class PerRequestPlugins
 {
