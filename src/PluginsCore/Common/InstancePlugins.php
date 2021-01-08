@@ -17,7 +17,7 @@
 
 
 
-namespace Plugins\Common;
+namespace pinpoint\PluginsCore\Common;
 
 
 class InstancePlugins

@@ -5,10 +5,10 @@
  * Time: 4:54 PM
  */
 
-namespace Plugins\Sys\RdKafka;
+namespace pinpoint\PluginsCore\Sys\RdKafka;
 
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class ProducePlugin extends Candy
 {

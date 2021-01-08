@@ -1,5 +1,5 @@
 <?php
-namespace Plugins\Sys\Memcached;
+namespace pinpoint\PluginsCore\Sys\Memcached;
 
 class Memcached extends \Memcached
 {

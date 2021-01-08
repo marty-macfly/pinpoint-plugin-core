@@ -15,7 +15,7 @@
  * limitations under the License.                                             *
  ******************************************************************************/
 
-namespace Plugins\Common;
+namespace pinpoint\PluginsCore\Common;
 
 require_once "../__init__.php";
 

@@ -5,8 +5,8 @@
  * Time: 3:09 PM
  */
 
-namespace Plugins\Sys\Memcached;
-use Plugins\Common\Candy;
+namespace pinpoint\PluginsCore\Sys\Memcached;
+use pinpoint\PluginsCore\Common\Candy;
 
 class MemAddServersPlugin extends Candy
 {

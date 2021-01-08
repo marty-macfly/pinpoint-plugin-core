@@ -5,7 +5,7 @@
  * Time: 4:17 PM
  */
 
-namespace Plugins\Sys\phpredis;
+namespace pinpoint\PluginsCore\Sys\phpredis;
 
 
 class Redis extends \Redis

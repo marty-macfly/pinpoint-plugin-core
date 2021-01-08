@@ -1,9 +1,9 @@
 <?php
 
-namespace Plugins\Sys\mysqli;
+namespace pinpoint\PluginsCore\Sys\mysqli;
 
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class MysqliPreparePlugin extends Candy
 {

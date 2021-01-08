@@ -14,8 +14,8 @@
  * See the License for the specific language governing permissions and        *
  * limitations under the License.                                             *
  ******************************************************************************/
-namespace Plugins\Sys\date;
-use Plugins\Common\CommonPlugin;
+namespace pinpoint\PluginsCore\Sys\date;
+use pinpoint\PluginsCore\Common\CommonPlugin;
 
 function date () {
     $args = \pinpoint_get_func_ref_args();

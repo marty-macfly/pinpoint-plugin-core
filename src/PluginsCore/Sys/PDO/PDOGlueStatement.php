@@ -14,10 +14,10 @@
  * See the License for the specific language governing permissions and        *
  * limitations under the License.                                             *
  ******************************************************************************/
-namespace Plugins\Sys\PDO;
+namespace pinpoint\PluginsCore\Sys\PDO;
 
-use Plugins\Common\Candy;
-use Plugins\Sys\PDO\ProfilerPDOStatement;
+use pinpoint\PluginsCore\Common\Candy;
+use pinpoint\PluginsCore\Sys\PDO\ProfilerPDOStatement;
 class PDOGlueStatement extends Candy
 
 {

@@ -17,10 +17,10 @@
 
 
 
-namespace Plugins\Sys\PDO;
+namespace pinpoint\PluginsCore\Sys\PDO;
 use function GuzzleHttp\Psr7\normalize_header;
 use PDO;
-use Plugins\Common\InstancePlugins;
+use pinpoint\PluginsCore\Common\InstancePlugins;
 
 class ProfilerPDOStatement extends \PDOStatement
 {

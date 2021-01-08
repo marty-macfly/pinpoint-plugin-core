@@ -5,10 +5,10 @@
  * Time: 4:32 PM
  */
 
-namespace Plugins\Sys\phpredis;
+namespace pinpoint\PluginsCore\Sys\phpredis;
 
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class SetPlugin extends Candy
 {

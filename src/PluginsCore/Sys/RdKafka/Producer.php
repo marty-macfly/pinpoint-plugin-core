@@ -5,7 +5,7 @@
  * Time: 11:02 AM
  */
 
-namespace Plugins\Sys\RdKafka;
+namespace pinpoint\PluginsCore\Sys\RdKafka;
 
 class Producer extends \RdKafka\Producer
 {

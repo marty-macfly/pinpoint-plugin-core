@@ -5,7 +5,7 @@
  * Time: 5:32 PM
  */
 
-namespace Plugins\Sys\mysqli;
+namespace pinpoint\PluginsCore\Sys\mysqli;
 
 
 class ProfilerMysqli_Stmt

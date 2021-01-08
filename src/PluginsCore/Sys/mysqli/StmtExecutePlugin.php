@@ -5,10 +5,10 @@
  * Time: 5:39 PM
  */
 
-namespace Plugins\Sys\mysqli;
+namespace pinpoint\PluginsCore\Sys\mysqli;
 
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class StmtExecutePlugin extends Candy
 {

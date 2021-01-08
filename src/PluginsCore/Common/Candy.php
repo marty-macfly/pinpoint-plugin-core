@@ -23,7 +23,7 @@
  * Time: 3:23 PM
  */
 
-namespace Plugins\Common;
+namespace pinpoint\PluginsCore\Common;
 require_once "PluginsDefines.php";
 
 abstract class Candy

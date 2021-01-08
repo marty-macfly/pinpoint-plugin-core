@@ -1,7 +1,7 @@
 <?php
-namespace Plugins\Sys\Memcached;
+namespace pinpoint\PluginsCore\Sys\Memcached;
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class MemGetPlugin extends Candy
 {

@@ -5,7 +5,7 @@
  * Time: 4:55 PM
  */
 
-namespace Plugins\Sys\RdKafka;
+namespace pinpoint\PluginsCore\Sys\RdKafka;
 
 
 class ProfilerNewTopic

@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and        *
  * limitations under the License.                                             *
  ******************************************************************************/
-namespace Plugins\Sys\PDO;
+namespace pinpoint\PluginsCore\Sys\PDO;
 
 class PDO extends \PDO
 {

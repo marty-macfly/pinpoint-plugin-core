@@ -15,9 +15,9 @@
  * limitations under the License.                                             *
  ******************************************************************************/
 
-namespace Plugins\Sys\curl;
+namespace pinpoint\PluginsCore\Sys\curl;
 
-use Plugins\Common\Candy;
+use pinpoint\PluginsCore\Common\Candy;
 
 class CurlExecPlugin extends Candy
 {

@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and        *
  * limitations under the License.                                             *
  ******************************************************************************/
-namespace Plugins\Util;
+namespace pinpoint\PluginsCore\Util;
 
 class Trace{
 

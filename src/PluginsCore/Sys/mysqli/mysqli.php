@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and        *
  * limitations under the License.                                             *
  ******************************************************************************/
-namespace Plugins\Sys\mysqli;
+namespace pinpoint\PluginsCore\Sys\mysqli;
 
 class Mysqli extends \mysqli
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Plugins\Sys\mysqli;
+namespace pinpoint\PluginsCore\Sys\mysqli;
 
 class ProfilerMysqliResult
 {

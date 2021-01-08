@@ -15,7 +15,7 @@
  * limitations under the License.                                             *
  ******************************************************************************/
 
-namespace Plugins\Common;
+namespace pinpoint\PluginsCore\Common;
 
 class CommonPlugin extends Candy
 {
