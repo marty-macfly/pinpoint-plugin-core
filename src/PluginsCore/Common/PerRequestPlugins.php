@@ -17,7 +17,7 @@
 
 namespace pinpoint\PluginsCore\Common;
 
-require_once "../__init__.php";
+require_once __DIR__ . "/../__init__.php";
 
 class PerRequestPlugins
 {
