@@ -22,7 +22,7 @@
   },
   "autoload": {
     "psr-4": {
-      "pinpoint\\PluginsCore": "src/PluginsCore"
+      "pinpoint\\PluginsCore\\": "src/PluginsCore"
     }
   }
 }
