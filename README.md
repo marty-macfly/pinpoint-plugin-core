@@ -27,3 +27,7 @@ or add
 ```
 
 to the `require` section of your composer.json.
+
+## Useful link
+
+Explanation about [pinpoint_...()](https://github.com/pinpoint-apm/pinpoint-c-agent/blob/master/src/PHP/pinpoint_php_api.php) php extesnion function API can also find some information on the python side about the same [API](https://github.com/pinpoint-apm/pinpoint-c-agent/blob/master/src/PY/help(pinpointPy).txt)
